@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Mr.Goku\source\repos\HIVE22\main.cpp(17,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Mr.Goku\source\repos\HIVE22\main.cpp(17,23): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  HIVE22.vcxproj -> C:\Users\Mr.Goku\source\repos\HIVE22\x64\Debug\HIVE22.exe

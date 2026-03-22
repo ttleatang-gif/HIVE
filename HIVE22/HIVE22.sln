@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HIVE22", "HIVE22.vcxproj", "{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{4ACA17E6-5C7E-4AAF-BB00-F4ED39EF8090}"
+	ProjectSection(SolutionItems) = preProject
+		..\HIVE2\game.h = ..\HIVE2\game.h
+		..\HIVE2\main.cpp = ..\HIVE2\main.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Debug|x64.ActiveCfg = Debug|x64
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Debug|x64.Build.0 = Debug|x64
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Debug|x86.Build.0 = Debug|Win32
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Release|x64.ActiveCfg = Release|x64
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Release|x64.Build.0 = Release|x64
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Release|x86.ActiveCfg = Release|Win32
+		{6F2A77F6-DDA9-4E91-8B51-7441AEB95957}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7D436B-6FA1-4EFF-A9CF-864D96D475B2}
+	EndGlobalSection
+EndGlobal
